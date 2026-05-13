@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tudorlacatuslc@gmail.com)
 [![PyPI](https://img.shields.io/badge/PyPI-speclink-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/speclink/)
 
-_Madrid, Spain · Open to junior backend & cloud roles_
 
 </div>
 
@@ -71,18 +70,3 @@ class Tudor:
 | **Cloud Developer** | HTWG Konstanz, Germany | Deployment CLI automating full AWS EC2 lifecycle · Reduced startup 20s → 140ms (Vite migration) |
 | **AI Automation Developer** | People 1st AI, Spain | RAG pipeline with identity-based filtering · n8n + FastAPI microservices · MCP server for PowerPoint automation |
 | **Data Engineer Intern** | Grupo ES3, Spain | Web scraping 500+ daily government tenders · ETL pipelines · ChatGPT summarization integration |
-
----
-
-### Spoken languages
-
-`Spanish (Native)` `English (C1)` `Romanian (Advanced)`
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lacatu5&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lacatu5&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" width="48%" />
-
-</div>
