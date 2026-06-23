@@ -20,7 +20,6 @@ class Tudor:
     def __init__(self):
         self.education = "Software Engineering BSc, Universidad de Sevilla"
         self.focus = ["Backend APIs", "Cloud Infrastructure", "Applied AI"]
-        self.currently = "Graduating June 2026"
 
     def get_stack(self):
         return {
